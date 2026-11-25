@@ -1,4 +1,3 @@
-# AI-Automation-project-2
 # Smart Order Processing Workflow (n8n)
 
 An n8n automation project that demonstrates conditional logic using **IF** and **Switch** nodes to process e-commerce orders from Google Sheets — routing each order based on payment status, country, order value, and customer type, then logging the final decision back to Google Sheets.
